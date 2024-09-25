@@ -1,0 +1,31 @@
+body {
+    color: rgb(247, 247, 252);
+    background: #1f1f1f;
+    font-family: "Battambang", sans-serif;
+}
+
+header {
+    border-bottom: solid 2px rgb(19, 18, 18);
+    padding: 20px;
+    font-size: 32px;
+    color: rgb(173, 209, 11)
+}
+section{
+    background: rgb(14, 6, 0);
+    padding-top: 80px;
+    padding-bottom: 80px;
+    display:flex;
+    justify-content: center;
+}
+
+.chamada-texto{
+    margin-right: 20px;
+}
+
+h1 {
+    font-size: 40px;
+}
+
+p {
+    font-size: 20px;
+}
